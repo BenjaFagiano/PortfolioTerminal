@@ -1,0 +1,3 @@
+[submodule "Terminal/PortfolioTerminal"]
+	path = Terminal/PortfolioTerminal
+	url = https://github.com/BenjaFagiano/PortfolioTerminal
